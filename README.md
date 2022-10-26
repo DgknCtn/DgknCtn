@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on Mechsoft
 
-- 🌱 I’m currently learning *Swift & Python
+- 🌱 I’m currently learning Swift & Python
 
 - 📫 How to reach me eem.dogukancetin@gmail.com
 
