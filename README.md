@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Doğukan Çetin</h1>
-<h3 align="center">Electrical-Electronic Engineer & Business Analyst & Jr Developer from Turkey</h3>
+<h3 align="center">Electrical-Electronic Engineer & Project Management Assistant Specialist & Jr Developer from Turkey</h3>
 
-- 🔭 I’m currently working on **Mechsoft**
+- 🔭 I’m currently working on **İnnova**
 
 - 🌱 I’m currently learning **C++ and Python**
 
